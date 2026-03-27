@@ -11,6 +11,13 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 
+# Flutter
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,gradle.org
+
 # Reddit
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
